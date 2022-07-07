@@ -1,7 +1,7 @@
 //THIS BOT IS NOT A CLONE ITS 100% CODED BY TEAM MINNAL
 module.exports = {
-    name: 'ping',
-    description: "Use To Know Bot Ping",
+    name: 'smooth',
+    description: "about smooth",
     run(client, message, args , Discord){
       const Embed = new Discord.MessageEmbed()
       .setColor('RANDOM')
@@ -12,6 +12,7 @@ module.exports = {
         {name: 'About', value: 'SMOOTH WATCHOVER THE HIDDEN MINNAL CRAFT VILLAGE FROM THE SHADOWS LIKE ITACHI UCHIHA'},
         {name: 'Hobby', value: 'SMOOTH LOVES TO PLAY BEDWARS & BGMI AND TO WATCH ANIME'},
         {name: 'Real Name', value: 'UNDEFINED'},
+        {name: 'Relation', value: 'Single'},
         {name: 'FOLLOW ', value: '[Instagtam](https://www.instagram.com/meb.nnn)'}
       )
       message.channel.send(Embed);
