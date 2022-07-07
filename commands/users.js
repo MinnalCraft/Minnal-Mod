@@ -9,7 +9,7 @@ module.exports = {
       .setDescription('`~` **+** `USERNAME`')
       .setFooter('CREDITS TO TEAM MINNAL')
       .addFields(
-        {name: 'USERS', value: '``` mallukid , lexcrafter , koku , vicfic , smooth ```'}
+        {name: 'USERS', value: '``` mallukid , lexcrafter , koku , vicfic , smooth , stormgirl ```'}
       )
       message.channel.send(Embed);
     }
