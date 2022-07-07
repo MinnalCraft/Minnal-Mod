@@ -6,26 +6,26 @@ module.exports = {
     run : async(client, message, args, Discord) => {
         const Embed1 = new Discord.MessageEmbed()
       .setColor('#00FF00')
-      .setTitle('GIVEN')
-      .setDescription(`**REMOVED ROLE FROM USER**`)
+      .setTitle('TAKED')
+      .setDescription(`**വാഴക്ക് ROLE REMOVED**`)
       .setFooter('CREDITS TO TEAM MINNAL')
 
         const Embed2 = new Discord.MessageEmbed()
       .setColor('#FF0000')
       .setTitle('ERROR')
-      .setDescription('`U DONT HAVE PERMISSION TO USE THIS COMMAND`')
+      .setDescription('`U വാഴ, നിങ്ങൾക്ക് PERMISSION ILLA`')
       .setFooter('CREDITS TO TEAM MINNAL')
 
         const Embed3 = new Discord.MessageEmbed()
       .setColor('#FF0000')
       .setTitle('ERROR')
-      .setDescription('`MENTION A USER TO REMOVE ROLE`')
+      .setDescription('`METION A വാഴ TO REMOVE ROLE`')
       .setFooter('CREDITS TO TEAM MINNAL')
 
         const Embed4 = new Discord.MessageEmbed()
       .setColor('#FF0000')
       .setTitle('ERROR')
-      .setDescription('`MENTION THE ROLE U WANNA REMOVE`')
+      .setDescription('`U വാഴ MENTION ONE ROLE`')
       .setFooter('CREDITS TO TEAM MINNAL')
         
         if(!message.member.hasPermission("MANAGE_ROLES")) return message.channel.send(Embed2)
