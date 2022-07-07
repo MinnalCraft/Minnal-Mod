@@ -11,10 +11,10 @@
 
 **SETP 1** :- Install dependencies
 IN TERMINAL
-`npm i discord.js@12.5.3`
-`npm i fs`
-`npm i ms`
-`npm i dontenv`
+`npm i discord.js@12.5.3`\
+`npm i fs`\
+`npm i ms`\
+`npm i dontenv`\
 `npm i express`
 
 **STEP 2** :- Run the code
