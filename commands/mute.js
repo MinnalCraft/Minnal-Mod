@@ -1,3 +1,4 @@
+//THIS BOT IS NOT A CLONE ITS 100% CODED BY TEAM MINNAL
 const {Message, MessageEmbed}= require('discord.js')
 const ms = require('ms')
 
@@ -71,3 +72,4 @@ module.exports = {
         message.channel.send(Embed1)
     }
 }
+//THIS BOT IS NOT A CLONE ITS 100% CODED BY TEAM MINNAL
