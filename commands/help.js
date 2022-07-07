@@ -9,7 +9,7 @@ module.exports = {
       .setFooter('CREDITS TO TEAM MINNAL')
       .addFields(
         {name: 'INFO', value: '``` help , ping , users ```'},
-        {name: 'MODRATION', value: '``` purge , kick ```'}
+        {name: 'MODRATION', value: '``` purge , kick , mute , unmute , addrole , removerole ```'}
       )
       message.channel.send(Embed);
     }
