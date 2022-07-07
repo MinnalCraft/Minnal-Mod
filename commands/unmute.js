@@ -4,7 +4,8 @@ const { Message } = require('discord.js')
 module.exports=  {
     name : 'unmute', 
  
-    run : async(client, message, args) => {
+    run : async(client, message, args, Discord) => {
+
         const Embed1 = new Discord.MessageEmbed()
       .setColor('#00FF00')
       .setTitle('UNMUTED')
