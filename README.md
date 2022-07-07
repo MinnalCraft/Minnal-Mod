@@ -1,6 +1,8 @@
 ****
 # MINNAL MOD BOT
 
+**Simple Node.js Based Modration Bot**
+
 ****
 ## INSTALATION
 
