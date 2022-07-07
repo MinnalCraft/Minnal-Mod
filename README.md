@@ -4,9 +4,26 @@
 **Simple Node.js Based Modration Bot**
 
 ****
-*REQUIREMENTS* : `discord.js@12.5.3` , `fs` , `dotenv` , `express`
+*Dependencies* : `discord.js@12.5.3` , `fs` , `dotenv` , `express`
 
 ****
-## INSTALATION
+## SETUP 
+
+**SETP 1** :- Install dependencies
+IN TERMINAL
+`npm i discord.js@12.5.3`
+`npm i fs`
+`npm i dontenv`
+`npm i express`
+
+**STEP 2** :- Run the code
+IN TERMINAL
+Use `node index.js` To run the code
+
+**AND NOW YOUR BOT IS RUNNING**
+
+## WISH U A GOOD DAY DEVELOPERS
+
+#TEAM MINNAL
 
 
