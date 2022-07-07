@@ -10,7 +10,7 @@
 ## SETUP 
 
 **SETP 1** :- Install dependencies
-IN TERMINAL
+IN TERMINAL\
 `npm i discord.js@12.5.3`\
 `npm i fs`\
 `npm i ms`\
