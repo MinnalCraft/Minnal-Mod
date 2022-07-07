@@ -17,7 +17,10 @@ IN TERMINAL\
 `npm i dontenv`\
 `npm i express`
 
-**STEP 2** :- Run the code\
+**STEP 2** :- Give Bot Token\
+In `.env` File
+
+**STEP 3** :- Run the code\
 IN TERMINAL\
 Use `node index.js` To run the code
 
