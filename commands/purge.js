@@ -7,31 +7,31 @@ module.exports = {
         const Embed1 = new Discord.MessageEmbed()
       .setColor('#00FF00')
       .setTitle('PURGED')
-      .setDescription('**DELETED ' + args[0]  + ' MSG**')
+      .setDescription('**U വാഴ ' + args[0]  + ' MSG ഇല്ലാതാക്കി**')
       .setFooter('CREDITS TO TEAM MINNAL')
 
         const Embed2 = new Discord.MessageEmbed()
       .setColor('#FF0000')
       .setTitle('ERROR')
-      .setDescription('`PROVIDE A NUMBER BETWEEN 1 - 100`')
+      .setDescription('`U വാഴ ഒരു NUMBER GIVE 1 - 100`')
       .setFooter('CREDITS TO TEAM MINNAL')
 
         const Embed3 = new Discord.MessageEmbed()
       .setColor('#FF0000')
       .setTitle('ERROR')
-      .setDescription('`PLEASE USE NUMBERS`')
+      .setDescription('`BLEDI വാഴ നമ്പറുകൾ ഉപയോഗിക്`')
       .setFooter('CREDITS TO TEAM MINNAL')
 
         const Embed4 = new Discord.MessageEmbed()
       .setColor('#FF0000')
       .setTitle('ERROR')
-      .setDescription('`U CAN ONLY CLEAR UP TO 100 MSG`')
+      .setDescription('`BLEDI വാഴ 100 MSG മാത്രമേ CLAER ചെയ്യാൻ കഴിയൂ `')
       .setFooter('CREDITS TO TEAM MINNAL')
       
         const Embed5 = new Discord.MessageEmbed()
       .setColor('#FF0000')
       .setTitle('ERROR')
-      .setDescription('`U MUST PROVIDE ALEAST 1 NUMBER`')
+      .setDescription('`U വാഴ ഒരു NUMBER GIVE`')
       .setFooter('CREDITS TO TEAM MINNAL')
       
       if(!args[0]) return message.reply(Embed2);
