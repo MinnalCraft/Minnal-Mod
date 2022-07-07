@@ -28,6 +28,6 @@ Use `node index.js` To run the code
 
 **U CAN CLONE THIS PROJECT BUT DONT PUBLISH AS YOURS WITHOUT OUR PERMISSION**
 
-[[MINNAL CRAFT](https://minnalcraft.ml/img/minnal.png)](https://minnalcraft.ml)
+[![MINNAL CRAFT](https://minnalcraft.ml/img/minnal.png)](https://minnalcraft.ml)
 
 
