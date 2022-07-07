@@ -6,13 +6,13 @@ module.exports = {
       const Embed1 = new Discord.MessageEmbed()
       .setColor('#00FF00')
       .setTitle('KICKED')
-      .setDescription('**USER HAS BEEN KICKED**')
+      .setDescription('**വാഴ HAS BEEN KICKED**')
       .setFooter('CREDITS TO TEAM MINNAL')
 
         const Embed2 = new Discord.MessageEmbed()
       .setColor('#FF0000')
       .setTitle('ERROR')
-      .setDescription('`CANT KICK/FIND USER`')
+      .setDescription('`CANT KICK/FIND വാഴ`')
       .setFooter('CREDITS TO TEAM MINNAL')
       
         const target = message.mentions.users.first();
