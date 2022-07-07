@@ -4,7 +4,7 @@
 **Simple Node.js Based Modration Bot**
 
 ****
-*Dependencies* : `discord.js@12.5.3` , `fs` , `dotenv` , `express`
+*Dependencies* : `discord.js@12.5.3` , `fs` , `ms` , `dotenv` , `express`
 
 ****
 ## SETUP 
@@ -13,6 +13,7 @@
 IN TERMINAL
 `npm i discord.js@12.5.3`
 `npm i fs`
+`npm i ms`
 `npm i dontenv`
 `npm i express`
 
