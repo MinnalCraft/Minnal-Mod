@@ -6,7 +6,7 @@ module.exports = {
       const Embed = new Discord.MessageEmbed()
       .setColor('RANDOM')
       .setTitle('USER INFO')
-      .setDescription('<@792713065232728135> FROM THE SHADOWS ')
+      .setDescription('<@770333950874091551> FROM THE SHADOWS ')
       .setFooter('CREDITS TO TEAM MINNAL')
       .addFields(
         {name: 'About', value: 'SMOOTH WATCHOVER THE HIDDEN MINNAL CRAFT VILLAGE FROM THE SHADOWS LIKE ITACHI UCHIHA'},
