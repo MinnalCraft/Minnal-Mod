@@ -7,7 +7,7 @@ module.exports = {
       .setColor('RANDOM')
       .setTitle('USER INFO')
       .setDescription('<@770333950874091551> FROM THE SHADOWS ')
-      .setFooter('CREDITS TO TEAM MINNAL')
+      .setFooter('MINNAL CRAFT OFFICIAL BOT')
       .addFields(
         {name: 'About', value: 'SMOOTH WATCHOVER THE HIDDEN MINNAL CRAFT VILLAGE FROM THE SHADOWS LIKE ITACHI UCHIHA'},
         {name: 'Hobby', value: 'SMOOTH LOVES TO PLAY BEDWARS & BGMI AND TO WATCH ANIME'},
