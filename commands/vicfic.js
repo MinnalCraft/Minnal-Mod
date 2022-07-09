@@ -7,7 +7,7 @@ module.exports = {
       .setColor('RANDOM')
       .setTitle('USER INFO')
       .setDescription('<@708622411779670036> THE COOODERRRRR')
-      .setFooter('CREDITS TO TEAM MINNAL')
+      .setFooter('MINNAL CRAFT OFFICIAL BOT')
       .addFields(
         {name: 'About', value: 'VICFIC IS A PYTHON EXPERT WHO CODED MINNUZZ'},
         {name: 'Hobby', value: 'VICFIC LIVES TO CODE MAILY PYTHON AND TO PLAY VALORANT'},
