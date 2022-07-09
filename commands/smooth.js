@@ -4,7 +4,7 @@ module.exports = {
     description: "about smooth",
     run(client, message, args , Discord){
       const Embed = new Discord.MessageEmbed()
-      .setColor('RANDOM')
+      .setColor('BLACK')
       .setTitle('USER INFO')
       .setDescription('<@770333950874091551> FROM THE SHADOWS ')
       .setFooter('MINNAL CRAFT OFFICIAL BOT')
