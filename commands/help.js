@@ -8,7 +8,7 @@ module.exports = {
       .setTitle('MINNAL BOT COMMANDS')
       .setFooter('CREDITS TO TEAM MINNAL')
       .addFields(
-        {name: 'INFO', value: '``` help , ping , users ```'},
+        {name: 'INFO', value: '``` help , ping , users , botinfo ```'},
         {name: 'MODRATION', value: '``` purge , kick , mute , unmute , addrole , removerole ```'}
       )
       message.channel.send(Embed);
