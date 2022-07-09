@@ -8,31 +8,31 @@ module.exports = {
       .setColor('#00FF00')
       .setTitle('PURGED')
       .setDescription('**U വാഴ ' + args[0]  + ' MSG ഇല്ലാതാക്കി**')
-      .setFooter('CREDITS TO TEAM MINNAL')
+      .setFooter('MINNAL CRAFT OFFICIAL BOT')
 
         const Embed2 = new Discord.MessageEmbed()
       .setColor('#FF0000')
       .setTitle('ERROR')
       .setDescription('`U വാഴ ഒരു NUMBER GIVE 1 - 100`')
-      .setFooter('CREDITS TO TEAM MINNAL')
+      .setFooter('MINNAL CRAFT OFFICIAL BOT')
 
         const Embed3 = new Discord.MessageEmbed()
       .setColor('#FF0000')
       .setTitle('ERROR')
       .setDescription('`BLEDI വാഴ നമ്പറുകൾ ഉപയോഗിക്`')
-      .setFooter('CREDITS TO TEAM MINNAL')
+      .setFooter('MINNAL CRAFT OFFICIAL BOT')
 
         const Embed4 = new Discord.MessageEmbed()
       .setColor('#FF0000')
       .setTitle('ERROR')
       .setDescription('`BLEDI വാഴ 100 MSG മാത്രമേ CLAER ചെയ്യാൻ കഴിയൂ `')
-      .setFooter('CREDITS TO TEAM MINNAL')
+      .setFooter('MINNAL CRAFT OFFICIAL BOT')
       
         const Embed5 = new Discord.MessageEmbed()
       .setColor('#FF0000')
       .setTitle('ERROR')
       .setDescription('`U വാഴ ഒരു NUMBER GIVE`')
-      .setFooter('CREDITS TO TEAM MINNAL')
+      .setFooter('MINNAL CRAFT OFFICIAL BOT')
       
       if(!args[0]) return message.reply(Embed2);
       if(isNaN(args[0])) return message.reply(Embed3);
