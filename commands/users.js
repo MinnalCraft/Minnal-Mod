@@ -7,7 +7,7 @@ module.exports = {
       .setColor('RANDOM')
       .setTitle('USERS')
       .setDescription('`~` **+** `USERNAME`')
-      .setFooter('CREDITS TO TEAM MINNAL')
+      .setFooter('MINNAL CRAFT OFFICIAL BOT')
       .addFields(
         {name: 'USERS', value: '``` mallukid , lexcrafter , koku , vicfic , smooth , stormgirl , technical ```'}
       )
