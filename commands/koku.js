@@ -7,7 +7,7 @@ module.exports = {
       .setColor('RANDOM')
       .setTitle('USER INFO')
       .setDescription('<@761418086954958848> THE മാക്കാച്ചി')
-      .setFooter('CREDITS TO TEAM MINNAL')
+      .setFooter('MINNAL CRAFT OFFICIAL BOT')
       .addFields(
         {name: 'About', value: 'KOKACHI BEAST ALSO KNOWN AS മാക്കാച്ചി BEAST IN MINNAL CRAFT'},
         {name: 'Hobby', value: 'KOKU LOVES TO PLAY BGMI HE IS KNOW AS THE KAZTRO OF MINNAL CRAFT'},
