@@ -10,19 +10,19 @@ module.exports=  {
       .setColor('#00FF00')
       .setTitle('UNMUTED')
       .setDescription('**U വാഴ, നിങ്ങൾ UNMUTED ആ വാഴ SUCCESSFULLY**')
-      .setFooter('CREDITS TO TEAM MINNAL')
+      .setFooter('MINNAL CRAFT OFFICIAL BOT')
 
         const Embed2 = new Discord.MessageEmbed()
       .setColor('#FF0000')
       .setTitle('ERROR')
       .setDescription('`U വാഴ, നിങ്ങൾക്ക് PERMISSION ILLA`')
-      .setFooter('CREDITS TO TEAM MINNAL')
+      .setFooter('MINNAL CRAFT OFFICIAL BOT')
 
         const Embed3 = new Discord.MessageEmbed()
       .setColor('#FF0000')
       .setTitle('ERROR')
       .setDescription('`U വാഴ AGANE ORU വാഴ ILLA`')
-      .setFooter('CREDITS TO TEAM MINNAL')
+      .setFooter('MINNAL CRAFT OFFICIAL BOT')
       
         const Member = message.mentions.members.first() || message.guild.members.cache.get(args[0])
         
