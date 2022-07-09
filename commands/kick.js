@@ -7,13 +7,13 @@ module.exports = {
       .setColor('#00FF00')
       .setTitle('KICKED')
       .setDescription('**വാഴ HAS BEEN KICKED**')
-      .setFooter('CREDITS TO TEAM MINNAL')
+      .setFooter('MINNAL CRAFT OFFICIAL BOT')
 
         const Embed2 = new Discord.MessageEmbed()
       .setColor('#FF0000')
       .setTitle('ERROR')
       .setDescription('`CANT KICK/FIND വാഴ`')
-      .setFooter('CREDITS TO TEAM MINNAL')
+      .setFooter('MINNAL CRAFT OFFICIAL BOT')
       
         const target = message.mentions.users.first();
         if(target){
