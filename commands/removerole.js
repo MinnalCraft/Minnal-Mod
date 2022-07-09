@@ -8,25 +8,25 @@ module.exports = {
       .setColor('#00FF00')
       .setTitle('TAKED')
       .setDescription(`**വാഴക്ക് ROLE REMOVED**`)
-      .setFooter('CREDITS TO TEAM MINNAL')
+      .setFooter('MINNAL CRAFT OFFICIAL BOT')
 
         const Embed2 = new Discord.MessageEmbed()
       .setColor('#FF0000')
       .setTitle('ERROR')
       .setDescription('`U വാഴ, നിങ്ങൾക്ക് PERMISSION ILLA`')
-      .setFooter('CREDITS TO TEAM MINNAL')
+      .setFooter('MINNAL CRAFT OFFICIAL BOT')
 
         const Embed3 = new Discord.MessageEmbed()
       .setColor('#FF0000')
       .setTitle('ERROR')
       .setDescription('`METION A വാഴ TO REMOVE ROLE`')
-      .setFooter('CREDITS TO TEAM MINNAL')
+      .setFooter('MINNAL CRAFT OFFICIAL BOT')
 
         const Embed4 = new Discord.MessageEmbed()
       .setColor('#FF0000')
       .setTitle('ERROR')
       .setDescription('`U വാഴ MENTION ONE ROLE`')
-      .setFooter('CREDITS TO TEAM MINNAL')
+      .setFooter('MINNAL CRAFT OFFICIAL BOT')
         
         if(!message.member.hasPermission("MANAGE_ROLES")) return message.channel.send(Embed2)
 
