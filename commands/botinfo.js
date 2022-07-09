@@ -13,7 +13,7 @@ module.exports = {
         {name: 'Ping', value: `${client.ws.ping} ms`},
         {name: 'Version', value: `${require("../package.json").version}`},
         {name: 'Servers', value: `${client.guilds.cache.size}`},
-        {name: 'Node.js', value: `${process.version}`}
+        {name: 'Discord.js', value: `v12.5.3`}
       )
       message.channel.send(Embed);
     }
