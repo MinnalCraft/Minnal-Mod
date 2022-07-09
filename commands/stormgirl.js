@@ -4,14 +4,14 @@ module.exports = {
     description: "about stormgirl",
     run(client, message, args , Discord){
       const Embed = new Discord.MessageEmbed()
-      .setColor('RANDOM')
+      .setColor('PINK')
       .setTitle('USER INFO')
       .setDescription('<@914175792085344257> THE CUTE GIRL')
       .setFooter('CREDITS TO TEAM MINNAL')
       .addFields(
         {name: 'About', value: 'STORMGIRL IS ALSO KNOWN AS THE GREAT MEMER OF MINNAL CRAFT'},
-        {name: 'Hobby', value: 'STORM GIRL LOVE TO PLAP VALORANT AND ROBLOX AND ALSO LOVES TO WATCH ANIME'},
-        {name: 'Real Name', value: 'UNDEFINED'},
+        {name: 'Hobby', value: 'STORM GIRL LOVE TO PLAY VALORANT AND ROBLOX AND ALSO LOVES TO WATCH ANIME MAINLY (NARUTO)'},
+        {name: 'Real Name', value: 'Undefined'},
         {name: 'Relation', value: 'Mingle'},
         {name: 'FOLLOW ', value: '**NOTING YET**'}
       )
