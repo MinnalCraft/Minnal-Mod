@@ -7,7 +7,7 @@ module.exports = {
       .setColor('RANDOM')
       .setTitle('USER INFO')
       .setDescription('<@770667833486475265> THE CYBER GUY')
-      .setFooter('CREDITS TO TEAM MINNAL')
+      .setFooter('MINNAL CRAFT OFFICIAL BOT')
       .addFields(
         {name: 'About', value: 'TECHNICAL PLAYZZ THE TECHNO OF MINNAL CRAFT HE IS ALSO KNOWN AS HABIBI'},
         {name: 'Hobby', value: 'HE LOVES TO DEVELOP AND HE ALSO LOVES BECOME THE OWNER OF HYPIXEL AND HETZNER'},
