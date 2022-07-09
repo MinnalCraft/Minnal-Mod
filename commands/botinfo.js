@@ -7,7 +7,7 @@ module.exports = {
       .setColor('RANDOM')
       .setTitle('ABOUT ME')
       .setDescription('MY NAME IS MINNAL MOD')
-      .setFooter('CREDITS TO TEAM MINNAL')
+      .setFooter('MINNAL CRAFT OFFICIAL BOT')
       .addFields(
         {name: 'Developed By', value: 'TEAM MINNAL'},
         {name: 'Ping', value: `${client.ws.ping} ms`},
