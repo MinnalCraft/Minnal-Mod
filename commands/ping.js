@@ -7,7 +7,7 @@ module.exports = {
       .setColor('RANDOM')
       .setTitle('BOT PING')
       .setDescription(`Pong! ${client.ws.ping} ms`)
-      .setFooter('CREDITS TO TEAM MINNAL')
+      .setFooter('MINNAL CRAFT OFFICIAL BOT')
       
       message.channel.send(Embed);
     }
