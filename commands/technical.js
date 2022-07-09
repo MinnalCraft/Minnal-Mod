@@ -10,7 +10,7 @@ module.exports = {
       .setFooter('CREDITS TO TEAM MINNAL')
       .addFields(
         {name: 'About', value: 'TECHNICAL PLAYZZ THE TECHNO OF MINNAL CRAFT HE IS ALSO KNOWN AS HABIBI'},
-        {name: 'Hobby', value: 'HE LOVES TO DEVELOP AND HE ALSO IS STARTING A MC HOST'},
+        {name: 'Hobby', value: 'HE LOVES TO DEVELOP AND HE ALSO LOVES BECOME THE OWNER OF HYPIXEL AND HETZNER'},
         {name: 'Real Name', value: 'UNDEFINED'},
         {name: 'Relation', value: 'Single'},
         {name: 'FOLLOW ', value: '**NOTHING YET**'}
