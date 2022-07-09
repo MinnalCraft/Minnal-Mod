@@ -7,7 +7,7 @@ module.exports = {
       .setColor('RANDOM')
       .setTitle('USER INFO')
       .setDescription('<@896972697081348116> THE KILLADI')
-      .setFooter('CREDITS TO TEAM MINNAL')
+      .setFooter('MINNAL CRAFT OFFICIAL BOT')
       .addFields(
         {name: 'About', value: 'LEX CRAFTER IS THE GREATEST KILLADI IN MINNAL CRAFT'},
         {name: 'Hobby', value: 'LEX CRAFTER LOVES TO PLAY BEDWARS & BGMI LOVES TO WATCH ANIME AND ALSO WILL BE THERE ON VC EVERYTIME'},
