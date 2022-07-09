@@ -7,7 +7,7 @@ module.exports = {
       .setColor('RANDOM')
       .setTitle('USER INFO')
       .setDescription('<@876380482378539090> THE VAZHA')
-      .setFooter('CREDITS TO TEAM MINNAL')
+      .setFooter('MINNAL CRAFT OFFICIAL BOT')
       .addFields(
         {name: 'About', value: 'MALLU KID IS THE GREATEST VAZHA IN MINNAL CRAFT'},
         {name: 'Hobby', value: 'MALLU KID LIKES TO EAT & COOK AND ALSO LOVE TO PLAY BEDWARS,BGMI & LUDO'},
