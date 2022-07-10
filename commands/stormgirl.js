@@ -7,7 +7,7 @@ module.exports = {
       .setColor('PINK')
       .setTitle('USER INFO')
       .setDescription('<@914175792085344257> THE CUTE GIRL')
-      .setFooter('CREDITS TO TEAM MINNAL')
+      .setFooter('MINNAL CRAFT OFFICIAL BOT')
       .addFields(
         {name: 'About', value: 'STORMGIRL IS ALSO KNOWN AS THE GREAT MEMER OF MINNAL CRAFT'},
         {name: 'Hobby', value: 'STORM GIRL LOVE TO PLAY VALORANT AND ROBLOX AND ALSO LOVES TO WATCH ANIME MAINLY (NARUTO)'},
