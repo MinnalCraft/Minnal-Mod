@@ -35,7 +35,7 @@ if(message.content.startsWith(prefix)) {
 })
 //THIS BOT IS NOT A CLONE ITS 100% CODED BY TEAM MINNAL
 client.on('message', msg => {
-  if (msg.content === '<@994194753518305381>') {
+  if (msg.content === '<@YOUR_BOT_ID>') {
     msg.reply(`**USE ~help FOR MY HELP**`);
   }
 });
