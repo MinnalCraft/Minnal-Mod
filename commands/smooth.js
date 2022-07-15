@@ -13,7 +13,7 @@ module.exports = {
         {name: 'Hobby', value: 'SMOOTH LOVES TO PLAY BEDWARS & BGMI AND TO WATCH ANIME'},
         {name: 'Real Name', value: 'UNDEFINED'},
         {name: 'Relation', value: 'Single'},
-        {name: 'FOLLOW ', value: '[Instagtam](https://www.instagram.com/meb.nnn)'}
+        {name: 'FOLLOW ', value: '[Instagram](https://www.instagram.com/meb.nnn)'}
       )
       message.channel.send(Embed);
     }
