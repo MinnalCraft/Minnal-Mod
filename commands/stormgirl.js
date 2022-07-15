@@ -4,7 +4,7 @@ module.exports = {
     description: "about stormgirl",
     run(client, message, args , Discord){
       const Embed = new Discord.MessageEmbed()
-      .setColor('PINK')
+      .setColor('RANDOM')
       .setTitle('USER INFO')
       .setDescription('<@914175792085344257> THE CUTE GIRL')
       .setFooter('MINNAL CRAFT OFFICIAL BOT')
