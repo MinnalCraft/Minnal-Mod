@@ -13,7 +13,7 @@ module.exports = {
         {name: 'Hobby', value: 'LEX CRAFTER LOVES TO PLAY BEDWARS & BGMI LOVES TO WATCH ANIME AND ALSO WILL BE THERE ON VC EVERYTIME'},
         {name: 'Real Name', value: 'UNDEFINED'},
         {name: 'Relation', value: 'Mingle'},
-        {name: 'FOLLOW ', value: '[Youtube](https://www.youtube.com/watch?v=dQw4w9WgXcQ) , [Instagtam](https://www.instagram.com/lex_crafter)'}
+        {name: 'FOLLOW ', value: '[Youtube](https://www.youtube.com/watch?v=dQw4w9WgXcQ) , [Instagram](https://www.instagram.com/lex_crafter)'}
       )
       message.channel.send(Embed);
     }
