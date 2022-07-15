@@ -21,6 +21,7 @@ for(file of commands) {
 }
 //THIS BOT IS NOT A CLONE ITS 100% CODED BY TEAM MINNAL
 client.once('ready', () => {
+  client.user.setPresence({ activity: { name: "MINNAL CRAFT"}});
   console.log(`THIS BOT IS NOT A CLONE ITS 100% CODED BY TEAM MINNAL`);
 });
 //THIS BOT IS NOT A CLONE ITS 100% CODED BY TEAM MINNAL
@@ -35,7 +36,7 @@ if(message.content.startsWith(prefix)) {
 })
 //THIS BOT IS NOT A CLONE ITS 100% CODED BY TEAM MINNAL
 client.on('message', msg => {
-  if (msg.content === '<@YOUR_BOT_ID>') {
+  if (msg.content === '<@995918914880016406>') {
     msg.reply(`**USE ~help FOR MY HELP**`);
   }
 });
