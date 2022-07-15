@@ -13,7 +13,7 @@ module.exports = {
         {name: 'Hobby', value: 'KOKU LOVES TO PLAY BGMI HE IS KNOW AS THE KAZTRO OF MINNAL CRAFT'},
         {name: 'Real Name', value: 'Abhinav Santhosh'},
         {name: 'Relation', value: 'Single'},
-        {name: 'FOLLOW ', value: '[Instagtam](https://www.instagram.com/ig.kokachi_beast)'}
+        {name: 'FOLLOW ', value: '[Instagram](https://www.instagram.com/ig.kokachi_beast)'}
       )
       message.channel.send(Embed);
     }
