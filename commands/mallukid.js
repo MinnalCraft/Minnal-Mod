@@ -13,7 +13,7 @@ module.exports = {
         {name: 'Hobby', value: 'MALLU KID LIKES TO EAT & COOK AND ALSO LOVE TO PLAY BEDWARS,BGMI & LUDO'},
         {name: 'Real Name', value: 'George K Chacko'},
         {name: 'Relation', value: 'Mingle'},
-        {name: 'FOLLOW ', value: '[Instagtam](https://www.instagram.com/_mallu_kid_2006_)'}
+        {name: 'FOLLOW ', value: '[Instagram](https://www.instagram.com/_mallu_kid_2006_)'}
       )
       message.channel.send(Embed);
     }
