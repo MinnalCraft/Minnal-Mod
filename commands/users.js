@@ -9,7 +9,8 @@ module.exports = {
       .setDescription('`~` **+** `USERNAME`')
       .setFooter('MINNAL CRAFT OFFICIAL BOT')
       .addFields(
-        {name: 'USERS', value: '``` mallukid , lexcrafter , koku , vicfic , smooth , stormgirl , technical ```'}
+        {name: 'USERS', value: '``` mallukid , lexcrafter , koku , vicfic , smooth , stormgirl , technical ```'},
+        {name: 'Links', value: '[Website](https://minnalcraft.ml) | [Discord](https://dsc.gg/minnalcraft)'}
       )
       message.channel.send(Embed);
     }
