@@ -3,6 +3,7 @@ module.exports = {
     name: 'help',
     description: "To get bot commands",
     run(client, message, args , Discord){
+    message.delete();
       const Embed = new Discord.MessageEmbed()
       .setColor('RANDOM')
       .setTitle('MINNAL BOT COMMANDS')
