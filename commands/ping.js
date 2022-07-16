@@ -3,6 +3,7 @@ module.exports = {
     name: 'ping',
     description: "Use To Know Bot Ping",
     run(client, message, args , Discord){
+    message.delete();
       const Embed = new Discord.MessageEmbed()
       .setColor('RANDOM')
       .setTitle('BOT PING')
