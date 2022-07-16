@@ -4,6 +4,7 @@ module.exports = {
     description: "Use To Clear Msg",
     aliases : ['purge'],
     run : async(client, message, args , Discord) => {
+    message.delete();
         const Embed1 = new Discord.MessageEmbed()
       .setColor('#00FF00')
       .setTitle('PURGED')
