@@ -14,7 +14,8 @@ module.exports = {
         {name: 'Ping', value: `${client.ws.ping} ms`},
         {name: 'Version', value: `${require("../package.json").version}`},
         {name: 'Servers', value: `${client.guilds.cache.size}`},
-        {name: 'Discord.js', value: `v12.5.3`}
+        {name: 'Discord.js', value: `v12.5.3`},
+        {name: 'Links', value: '[Website](https://minnalcraft.ml) | [Discord](https://dsc.gg/minnalcraft)'}
       )
       message.channel.send(Embed);
     }
