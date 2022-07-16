@@ -3,6 +3,7 @@ module.exports = {
     name: 'smooth',
     description: "about smooth",
     run(client, message, args , Discord){
+    message.delete();
       const Embed = new Discord.MessageEmbed()
       .setColor('RANDOM')
       .setTitle('ABOUT ME')
