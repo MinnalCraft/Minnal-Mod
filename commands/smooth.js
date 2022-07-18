@@ -12,7 +12,7 @@ module.exports = {
         {name: 'About', value: 'SMOOTH WATCHOVER THE HIDDEN MINNAL CRAFT VILLAGE FROM THE SHADOWS LIKE ITACHI UCHIHA'},
         {name: 'Hobby', value: 'SMOOTH LOVES TO PLAY BEDWARS & BGMI AND TO WATCH ANIME'},
         {name: 'Real Name', value: 'UNDEFINED'},
-        {name: 'Relation', value: 'Single'},
+        {name: 'Relation', value: 'Mingle'},
         {name: 'FOLLOW ', value: '[Instagram](https://www.instagram.com/meb.nnn)'}
       )
       message.channel.send(Embed);
