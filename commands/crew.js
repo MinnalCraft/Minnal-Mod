@@ -3,6 +3,7 @@ module.exports = {
     name: 'crew',
     description: "Use To Know about TVD CREW",
     run(client, message, args , Discord){
+    message.delete();
       const Embed = new Discord.MessageEmbed()
       .setColor('RANDOM')
       .setTitle('TVD CREW')
